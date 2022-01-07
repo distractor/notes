@@ -9,7 +9,7 @@ Check:
 
 Check [this Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) to login as root, create new user and ssh as new user.
 
-### To keep the docker always running
+## To keep the docker always running
 
 Please check [this link](https://stackoverflow.com/questions/43671482/how-to-run-docker-compose-up-d-at-system-start-up).
 
