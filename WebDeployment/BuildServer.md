@@ -5,9 +5,7 @@ Check:
 
 - [This django-postgres-redis-celery tutorial](https://soshace.com/dockerizing-django-with-postgres-redis-and-celery/)
 
-## Requirements
+## Create a DigitalOcean droplet.
 
-- django 3.2,
-- Python 3.9,
-- Postgres 12+,
-- redis
+Check [this Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) to login as root, create new user and ssh as new user.
+
