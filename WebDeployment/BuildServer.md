@@ -9,6 +9,10 @@ Check:
 
 Check [this Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04) to login as root, create new user and ssh as new user.
 
+### To keep the docker always running
+
+Please check [this link](https://stackoverflow.com/a/53569049/5970596).
+
 > ## Notes
 >
 > - Never push `env` files to git.
