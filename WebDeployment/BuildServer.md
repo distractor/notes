@@ -11,7 +11,7 @@ Check [this Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com
 
 ### To keep the docker always running
 
-Please check [this link](https://stackoverflow.com/a/53569049/5970596).
+Please check [this link](https://stackoverflow.com/questions/43671482/how-to-run-docker-compose-up-d-at-system-start-up).
 
 > ## Notes
 >
