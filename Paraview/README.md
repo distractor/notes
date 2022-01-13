@@ -18,6 +18,22 @@
 To link camera for interactive side-by-side view:
 - right-click -> Link camera
 
+## Tensor Glyph
+
+For tensor visualisation.
+
+## VTK user guide
+
+Check it, should be useful, specially for the C++ development.
+
+## Plugins
+
+You can create your own readers, writers, etc... Meaning we could create a reader to a Medusa H5 file.
+Similar could be achieved with a `programmable source`.
+
 ## Important facts
 - There is a possibility that it can be run on server. Installing `paraview-client` on desktop and `paraview` on server should do the trick. Makes sense for large data only.
 
+# Contact
+
+philippe.pebay@ng-analytics.com
